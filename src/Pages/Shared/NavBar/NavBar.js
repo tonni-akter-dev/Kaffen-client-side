@@ -13,7 +13,7 @@ const NavBar = () => {
                     <span><i class="fas fa-clock"></i>OPENING HOURS : 08:00 AM - 09:00 PM</span>
                 </div>
                 <div>
-
+<h2>Hello github</h2>
                 </div>
 
             </div>
